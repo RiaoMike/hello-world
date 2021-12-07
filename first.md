@@ -121,4 +121,5 @@ $
 1. $\displaystyle\int_{\partial D}P{\rm d}x+Q{\rm d}y=\iint_D
 \left(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}\right){\rm d}x{\rm d}y$
 2. $\displaystyle\iiint_\Omega \left(\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z} \right){\rm d}x{\rm d}y{\rm d}z=\iint_{\partial\Omega}P{\rm d}y{\rm d}z+Q{\rm d}z{\rm d}x+R{\rm d}x{\rm d}y$
-3. 
+
+在这里我做了一次修改
