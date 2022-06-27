@@ -1,4 +1,6 @@
 # 这个标题拥有 1 个 id {#my_id}
+## Hello git 
+> rui love Math ,cs is just a tool
 **这会是 粗体 的文字**
 __这会是 粗体 的文字__
 *这会是 斜体 的文字*
